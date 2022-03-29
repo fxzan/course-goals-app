@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/course-goals-app/static/css/main.f0819e16.chunk.css",
+    "main.js": "/course-goals-app/static/js/main.e6c0257e.chunk.js",
+    "main.js.map": "/course-goals-app/static/js/main.e6c0257e.chunk.js.map",
+    "runtime-main.js": "/course-goals-app/static/js/runtime-main.46bc5df8.js",
+    "runtime-main.js.map": "/course-goals-app/static/js/runtime-main.46bc5df8.js.map",
+    "static/js/2.ae99df80.chunk.js": "/course-goals-app/static/js/2.ae99df80.chunk.js",
+    "static/js/2.ae99df80.chunk.js.map": "/course-goals-app/static/js/2.ae99df80.chunk.js.map",
+    "index.html": "/course-goals-app/index.html",
+    "static/css/main.f0819e16.chunk.css.map": "/course-goals-app/static/css/main.f0819e16.chunk.css.map",
+    "static/js/2.ae99df80.chunk.js.LICENSE.txt": "/course-goals-app/static/js/2.ae99df80.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46bc5df8.js",
+    "static/js/2.ae99df80.chunk.js",
+    "static/css/main.f0819e16.chunk.css",
+    "static/js/main.e6c0257e.chunk.js"
+  ]
+}
